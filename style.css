@@ -8,6 +8,7 @@ body{
 
 h1{
     text-align: center;
+    height: 1000px;
     background-color: burlywood;
 }
 
@@ -32,3 +33,4 @@ h2{
  #banner{
     width: 70%;
  }
+
