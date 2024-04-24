@@ -10,6 +10,8 @@ h1{
     text-align: center;
     height: 100px;
     background-color: burlywood;
+    border: 50px solid black;
+    margin-top: 50px;
 }
 
 h2{
