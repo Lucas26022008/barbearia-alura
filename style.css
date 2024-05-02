@@ -32,8 +32,10 @@ h2{
     
  }
  
-
  #banner{
     width: 70%;
  }
 
+.itens{
+    color: blueviolet;
+}
