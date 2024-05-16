@@ -82,7 +82,7 @@ nav a:hover{
     text-align: center;
     background: url("img/bg.jpg");
  }
- 
+
  body 
 
  .copyright {
@@ -91,3 +91,10 @@ nav a:hover{
     margin: 20px 0 0;
  }
  
+ .tocomfome{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+ }
