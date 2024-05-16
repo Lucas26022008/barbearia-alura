@@ -56,7 +56,7 @@ nav a:hover{
 .produtos li:hover {
     border-color: #C78C19;
  }
- 
+
  .produtos li:active {
     border-color: #088C19;    
  }
@@ -80,7 +80,7 @@ nav a:hover{
  }
  footer {
     text-align: center;
-    background: url("bg.jpg");
+    background: url("img/bg.jpg");
     padding: 40px 0;
  }
  
