@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(15, 15, 15);
+    color: white;
+    text-align: center;
+    border: 5px rgb(170, 173, 173) solid;
+}
+
+.sim {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    border: 5px rgba(196, 196, 196, 0.952) solid;
+}
+
+em strong {
+    color: rgba(177, 185, 190, 0.952);
+}
+
+#banner {
+    width: 70%;
+}
+
+.segundo {
+    text-align: left;
+}
+
+.beneficios {
+    padding: 20px;
+
+}
+
+h2 {
+    text-align: center;
+
+}
+
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+    margin-left: 40px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.conteudo-beneficios {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-beneficios {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.itens {
+    line-height: 1.5;
+    text-align: center;
+}
+
+.itens:first-child {
+    font-weight: bold;
+}
+
+
+.imagembeneficios {
+    width: 40%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px 0 #000000;
+}
+
+.imagembeneficios:hover {
+    opacity: 0.3;
+}
